@@ -1,0 +1,120 @@
+OrdersCount
+-----------
+808        
+OrderDetailsCount
+-----------------
+2096             
+ArchivedOrdersCount
+-------------------
+59                 
+NumberOfProducts
+----------------
+2               
+AvgProductsPerCategory
+----------------------
+9.625                 
+RegionID  RegionDescription  EmployeeCount
+--------  -----------------  -------------
+1         Eastern            4            
+NumberOfCustomers
+-----------------
+27               
+CompanyName                        City             Country    
+---------------------------------  ---------------  -----------
+Split Rail Beer & Ale              Lander           USA        
+Rattlesnake Canyon Grocery         Albuquerque      USA        
+Berglunds snabbköp                 Luleå            Sweden     
+Lehmanns Marktstand                Frankfurt a.M.   Germany    
+QUICK-Stop                         Cunewalde        Germany    
+Que Delícia                        Rio de Janeiro   Brazil     
+Tradição Hipermercados             Sao Paulo        Brazil     
+Vins et alcools Chevalier          Reims            France     
+Blondesddsl père et fils           Strasbourg       France     
+Hungry Owl All-Night Grocers       Cork             Ireland    
+Ricardo Adocicados                 Rio de Janeiro   Brazil     
+Magazzini Alimentari Riuniti       Bergamo          Italy      
+Die Wandernde Kuh                  Stuttgart        Germany    
+Suprêmes délices                   Charleroi        Belgium    
+Godos Cocina Típica                Sevilla          Spain      
+Tortuga Restaurante                México D.F.      Mexico     
+Lonesome Pine Restaurant           Portland         USA        
+The Big Cheese                     Portland         USA        
+Island Trading                     Cowes            UK         
+Bólido Comidas preparadas          Madrid           Spain      
+Mère Paillarde                     Montréal         Canada     
+Victuailles en stock               Lyon             France     
+Princesa Isabel Vinhos             Lisboa           Portugal   
+Frankenversand                     München          Germany    
+White Clover Markets               Seattle          USA        
+La maison d'Asie                   Toulouse         France     
+Antonio Moreno Taquería            México D.F.      Mexico     
+Galería del gastrónomo             Barcelona        Spain      
+Ernst Handel                       Graz             Austria    
+Chop-suey Chinese                  Bern             Switzerland
+Queen Cozinha                      Sao Paulo        Brazil     
+Hungry Coyote Import Store         Elgin            USA        
+Santé Gourmet                      Stavern          Norway     
+Bottom-Dollar Markets              Tsawassen        Canada     
+Ottilies Käseladen                 Köln             Germany    
+Wartian Herkku                     Oulu             Finland    
+Richter Supermarkt                 Genève           Switzerland
+Piccolo und mehr                   Salzburg         Austria    
+Folk och fä HB                     Bräcke           Sweden     
+Consolidated Holdings              London           UK         
+Toms Spezialitäten                 Münster          Germany    
+Save-a-lot Markets                 Boise            USA        
+Old World Delicatessen             Anchorage        USA        
+Rancho grande                      Buenos Aires     Argentina  
+Around the Horn                    London           UK         
+Königlich Essen                    Brandenburg      Germany    
+Furia Bacalhau e Frutos do Mar     Lisboa           Portugal   
+Bon app'                           Marseille        France     
+Pericles Comidas clásicas          México D.F.      Mexico     
+Folies gourmandes                  Lille            France     
+LINO-Delicateses                   I. de Margarita  Venezuela  
+HILARION-Abastos                   San Cristóbal    Venezuela  
+Comércio Mineiro                   Sao Paulo        Brazil     
+LILA-Supermercado                  Barquisimeto     Venezuela  
+Familia Arquibaldo                 Sao Paulo        Brazil     
+Cactus Comidas para llevar         Buenos Aires     Argentina  
+Seven Seas Imports                 London           UK         
+Great Lakes Food Market            Eugene           USA        
+Maison Dewey                       Bruxelles        Belgium    
+Lazy K Kountry Store               Walla Walla      USA        
+Trail's Head Gourmet Provisioners  Kirkland         USA        
+Let's Stop N Shop                  San Francisco    USA        
+Blauer See Delikatessen            Mannheim         Germany    
+Vaffeljernet                       Århus            Denmark    
+Du monde entier                    Nantes           France     
+Wolski  Zajazd                     Warszawa         Poland     
+The Cracker Box                    Butte            USA        
+Wellington Importadora             Resende          Brazil     
+Gourmet Lanchonetes                Campinas         Brazil     
+Reggiani Caseifici                 Reggio Emilia    Italy      
+Alfreds Futterkiste                Berlin           Germany    
+Morgenstern Gesundkost             Leipzig          Germany    
+Hanari Carnes                      Rio de Janeiro   Brazil     
+Drachenblut Delikatessen           Aachen           Germany    
+Simons bistro                      Kobenhavn        Denmark    
+Océano Atlántico Ltda.             Buenos Aires     Argentina  
+Romero y tomillo                   Madrid           Spain      
+B's Beverages                      London           UK         
+Spécialités du monde               Paris            France     
+France restauration                Nantes           France     
+La corne d'abondance               Versailles       France     
+Eastern Connection                 London           UK         
+Franchi S.p.A.                     Torino           Italy      
+EmployeeID  ManagerID  ManagerTerritoryCount
+----------  ---------  ---------------------
+1           2          9                    
+3           2          9                    
+4           2          9                    
+5           2          9                    
+6           5          7                    
+7           5          7                    
+8           2          9                    
+9           5          7                    
+CompanyName       NumberOfOrders  AvgTotalCost
+----------------  --------------  ------------
+Federal Shipping  1               6163.7      
+United Package    3               3519.67     
