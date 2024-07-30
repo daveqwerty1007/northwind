@@ -29,7 +29,7 @@ CREATE TABLE IF NOT EXISTS ArchivedOrders (
     UnitPrice REAL DEFAULT 0 CHECK (UnitPrice >= 0),
     Quantity INTEGER DEFAULT 1 CHECK (Quantity > 0),
     Discount REAL DEFAULT 0 CHECK (Discount BETWEEN 0 AND 1),
-    ArchivedDate TEXT DEFAULT (datetime('now')),
+    ArchivedDate TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
     PRIMARY KEY (OrderID, ProductID),
     FOREIGN KEY (ProductID) REFERENCES Products(ProductID)
         ON DELETE NO ACTION
